@@ -1,0 +1,8 @@
+C:\Users\bianca.ysassis\source\repos\exerciciosTint\exerciciosTint\bin\Debug\exerciciosTint.exe.config
+C:\Users\bianca.ysassis\source\repos\exerciciosTint\exerciciosTint\bin\Debug\exerciciosTint.exe
+C:\Users\bianca.ysassis\source\repos\exerciciosTint\exerciciosTint\bin\Debug\exerciciosTint.pdb
+C:\Users\bianca.ysassis\source\repos\exerciciosTint\exerciciosTint\obj\Debug\exerciciosTint.csproj.AssemblyReference.cache
+C:\Users\bianca.ysassis\source\repos\exerciciosTint\exerciciosTint\obj\Debug\exerciciosTint.csproj.SuggestedBindingRedirects.cache
+C:\Users\bianca.ysassis\source\repos\exerciciosTint\exerciciosTint\obj\Debug\exerciciosTint.csproj.CoreCompileInputs.cache
+C:\Users\bianca.ysassis\source\repos\exerciciosTint\exerciciosTint\obj\Debug\exerciciosTint.exe
+C:\Users\bianca.ysassis\source\repos\exerciciosTint\exerciciosTint\obj\Debug\exerciciosTint.pdb
